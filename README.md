@@ -5,9 +5,9 @@
 > This repository is built based on OpenCOOD for our proposed **CoLA** method.
 
 ## File Locations
-- Configuration file for CoLA: `./OpenCOOD/opencood/hypes_yaml/point_pillar_multi_baseline_deltafusion_ablation.yaml`
-- Model entry script: `./OpenCOOD/opencood/models/point_pillar_deltafusion_ablation.py`
-- Core operator directory: `./OpenCOOD/opencood/models/fuse_modules/delta`
+- Configuration file for CoLA: `./opencood/hypes_yaml/point_pillar_multi_baseline_deltafusion_ablation.yaml`
+- Model entry script: `./opencood/models/point_pillar_deltafusion_ablation.py`
+- Core operator directory: `./opencood/models/fuse_modules/delta`
 
 ## Environment
 The basic environment setup follows the official OpenCOOD repository:
